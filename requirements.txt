@@ -2,3 +2,5 @@ streamlit
 polars
 pandas
 numpy
+xlsxwriter
+openpyxl
